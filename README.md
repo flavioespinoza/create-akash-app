@@ -1,9 +1,9 @@
 # create-akash-app
 
-Set up a modern React dApp for the Akash Network by running one command.
+Set up a modern dApp for the Akash Network by running one command.
 
 
-Create React dApps with no build configuration.
+Create dApps with no build configuration.
 
 - [Creating a dApp](./docs/creating-a-dapp.md) – How to create a new dApp.
 - [User Guide](./docs/users-guide.md) – How to develop dApps bootstrapped with Create Akash App.
