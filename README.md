@@ -12,5 +12,11 @@ Create React App works on macOS, Windows, and Linux.
 
 If something doesn’t work, please file an issue.
 
+## Tech
+
+- React
+- Recoil
+- CosmJS
+
 
 
