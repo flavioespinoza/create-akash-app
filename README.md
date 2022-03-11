@@ -1,4 +1,4 @@
-# Create Akash App
+# create-akash-app
 
 Set up a modern React dApp for the Akash Network by running one command.
 
